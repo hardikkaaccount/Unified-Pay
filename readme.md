@@ -17,7 +17,7 @@ UnifiedPay offers a simple, secure, and efficient way to handle both **fiat** (U
   - Integrated real-time conversion rates between fiat and crypto.
 - **Multi-Currency Support**:
   - Supports various cryptocurrencies, such as **Bitcoin (BTC)**, **Ethereum (ETH)**, and more.
-  - Traditional fiat currencies like **USD**, **EUR**, and **GBP** are also supported.
+  - Traditional fiat currencies like **INR**, **USD** are also supported.
 - **User-Friendly Interface**:
   - A simple interface for easy management of payments and transactions.
   - Real-time transaction tracking and history.
@@ -31,10 +31,10 @@ UnifiedPay offers a simple, secure, and efficient way to handle both **fiat** (U
 
 ## 🔧 Technologies Used
 
-- **Backend**: Python, Flask
+- **Backend**: NodeJS, ExpressJS, Solidity (smart contract)
 - **Cryptocurrency Integration**: Using APIs for real-time cryptocurrency prices and payment gateways.
-- **Frontend**: HTML, CSS, JavaScript (for the user interface)
-- **Database**: SQLite (or MongoDB for more scalability)
+- **Frontend**: ReactJS
+- **Database**: MongoDB
 - **APIs**: 
   - **OpenWeatherMap** for real-time conversion rates and crypto prices.
   - **CoinGecko** or similar for crypto-related data.
